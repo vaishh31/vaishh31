@@ -82,7 +82,7 @@ A multi-page healthcare analytics dashboard analysing patient outcomes, readmiss
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-deshmukh-5152031b8/)
 - 📧 Open to Data Analyst & Power BI opportunities
 
 ---
