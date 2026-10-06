@@ -58,7 +58,7 @@ A multi-page healthcare analytics dashboard analysing patient outcomes, readmiss
 - Operational waiting times
 - Data quality & governance
 
-🔗 **[View Project](#)**
+🔗 **[View Project](https://github.com/vaishh31/OptiCare-Healthcare-Analytics)**
 
 ## 🎯 Analytics Focus
 
